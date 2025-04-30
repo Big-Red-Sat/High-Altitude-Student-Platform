@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mcp16301")(type "KiCad")(uri "${KIPRJMOD}/mcp16301.kicad_sym")(options "")(descr ""))
+  (lib (name "uv_sensor_lib")(type "KiCad")(uri "C:/Users/matth/OneDrive/College/AXP/AXP Github/UV Sensor/uv_sensor/uv_sensor_lib.kicad_sym")(options "")(descr ""))
+)
