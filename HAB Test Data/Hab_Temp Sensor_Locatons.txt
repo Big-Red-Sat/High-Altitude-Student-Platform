@@ -1,0 +1,9 @@
+Module1 - Attached to outer, contacted through solder 
+Module2 - Mounted on top face, contacted with alligator clips
+
+Temp1 - Module Mounted
+Temp2 - Perovskites Illuminated
+Temp4 - Internal 
+Temp7 - Internal
+Temp5 - Internal 
+
